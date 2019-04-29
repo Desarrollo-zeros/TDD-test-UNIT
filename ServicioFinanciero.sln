@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServicioFinanciero.Domain", "ServicioFinanciero.Domain\ServicioFinanciero.Domain.csproj", "{05B7FDEF-DA9F-4D51-852D-71FB5345F3FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServicioFinanciero.Domain.Test", "ServicioFinanciero.Domain.Test\ServicioFinanciero.Domain.Test.csproj", "{0F044CDE-5177-438D-9936-FCC5D6FA4B85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05B7FDEF-DA9F-4D51-852D-71FB5345F3FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05B7FDEF-DA9F-4D51-852D-71FB5345F3FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05B7FDEF-DA9F-4D51-852D-71FB5345F3FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05B7FDEF-DA9F-4D51-852D-71FB5345F3FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F044CDE-5177-438D-9936-FCC5D6FA4B85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F044CDE-5177-438D-9936-FCC5D6FA4B85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F044CDE-5177-438D-9936-FCC5D6FA4B85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F044CDE-5177-438D-9936-FCC5D6FA4B85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C81DC81F-B4E3-49D1-A92B-9A6029E3025D}
+	EndGlobalSection
+EndGlobal
